@@ -1,0 +1,33 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+entity mul is
+  port(
+    mulf : in std_logic;
+    outs : out std_logic_vector(31 downto 0);
+    sigo : out std_logic
+  );
+  end;
+architecture arc of mul is
+  variable y : std_logic_vector(15 downto 0):="0000000000000010";
+  variable x : std_logic_vector(31 downto 0):="00000000000000000000000000000011";
+  variable outsig : std_logic_vector(31 downto 0):="00000000000000000000000000000000";
+  begin
+    process(mulf)
+      begin
+        if mulf ='1' then
+      for i in 1 to 16 loop
+      
+      if y(0)='1' then--b(0)=1 
+        sigo <= '1';
+      outsig <= std_logic_vector(unsigned(outsig) + unsigned(x));
+      else
+      x <= x(30 downto 0) &'0';
+      end if;
+      y <= '0' & y(15 downto 1);
+      end loop;
+    end if;
+    end process;
+    
+    outs <= outsig;
+  end;

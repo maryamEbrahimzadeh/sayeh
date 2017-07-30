@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------------
+-- Author:        Parham Alvani (parham.alvani@gmail.com)
+--
+-- Create Date:   16-03-2017
+-- Module Name:   memory.vhd
+--------------------------------------------------------------------------------
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.numeric_std.all;
+
+entity memory is
+	generic (blocksize : integer := 1024);
+
+	port (
+	  clk, readmem, writemem ,readio,writeio: in std_logic;
+	  input :in  std_logic_vector (15 downto 0);
+	  output : out  std_logic_vector (15 downto 0);
+		addressbus: in std_logic_vector (15 downto 0);
+		databus : inout std_logic_vector (15 downto 0);
+		memdataready : out std_logic);
+end entity memory;
+
+architecture behavioral of memory is
+	type mem is array (0 to blocksize - 1) of std_logic_vector (15 downto 0);
+begin
+	process (clk, readmem,writemem)
+		variable buffermem : mem := (others => (others => '0'));
+		variable ad : integer;
+		variable init : boolean := true;
+	begin
+		if init = true then
+			-- some initiation
+		      -- cwp
+          buffermem(0) := "0000000000000110";
+
+          -- mil r0, 01011101
+          buffermem(1) := "1111000000000010";
+
+          -- mih r0, 00000101
+          buffermem(2) := "1111000100000000";
+
+          -- mil r1, 00000001
+          buffermem(3) := "1111010000000110";
+
+          -- mih r1, 00000000
+          buffermem(4) := "1111010100000000";
+
+          -- mul r1, r0
+          buffermem(5) := "0000000011010100";
+			init := false;
+		end if;
+
+		
+		
+
+		if  clk'event and clk = '0' then
+			ad := to_integer(unsigned(addressbus));
+
+			if readmem = '1' then -- Readiing :)
+			  databus <= (others => 'Z');
+				memdataready <= '0';
+				if ad >= blocksize then
+					databus <= (others => 'Z');
+				else
+					databus <= buffermem(ad);
+					memdataready <= '1';
+				end if;
+			elsif writemem = '1' then -- Writing :)
+				memdataready <= '0';
+				if ad < blocksize then
+					buffermem(ad) := databus;
+				end if;
+				
+			elsif readio ='1' then --read from port
+			  databus <= input;
+			  memdataready <= '1';
+			 elsif writeio ='1'  then --writeio 
+			   output <= databus ;
+			else
+			  databus <= (others => 'Z');
+
+			end if;
+			--memdataready <= '1';
+		end if;
+	end process;
+end architecture behavioral;

@@ -1,0 +1,1339 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\asus\Documents\4th term\architecht\hw3\q2
+T_opt
+VOX4`6O`b3IY9:Vam7RMSL2
+04 4 3 work test rtl 1
+=3-5ce0c52a2399-58f5162e-277-2014
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dC:\Users\asus\Documents\4th term\architecht\hw3\q2
+T_opt1
+V7[UzN<?U`eHzDT2HGH2S30
+04 5 3 work sayeh rtl 1
+=2-5ce0c52a2399-59630e01-201-2ba8
+R1
+n@_opt1
+R2
+R3
+T_opt2
+V9_Nkhh4;2ePO>WEHkXKDI1
+04 11 10 work counter_mod behavioral 1
+=1-5ce0c52a2399-58f72dca-267-2b4c
+R1
+n@_opt2
+R2
+R3
+Eaddresslogic
+Z4 w1490771743
+Z5 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 dC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh
+Z9 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresslogic.vhd
+Z10 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresslogic.vhd
+l0
+L5
+VEXR^<`P8oJaH0fShbHbYR0
+Z11 OL;C;10.1c;51
+32
+Z12 !s108 1499705040.483000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresslogic.vhd|
+Z14 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresslogic.vhd|
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1
+!s100 =;=Di5GNJ27[1e>03?eZ73
+!i10b 1
+Adataflow
+R5
+R6
+R7
+DEx4 work 12 addresslogic 0 22 EXR^<`P8oJaH0fShbHbYR0
+32
+l25
+L14
+VcnQeT_DTE^jFPGI]d>Ohm1
+R11
+R12
+R13
+R14
+R15
+R16
+!s100 DXKGkDRQ4U^=TTCEVn]O>3
+!i10b 1
+Eaddressunit
+Z17 w1490771984
+R5
+R6
+R7
+R8
+Z18 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresunit.vhd
+Z19 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresunit.vhd
+l0
+L5
+VkJ3ML1g:h0<KaU<^IPRg<2
+R11
+32
+Z20 !s108 1499705040.657000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresunit.vhd|
+Z22 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/addresunit.vhd|
+R15
+R16
+!s100 FKQ=`]CK;XfKWDJoV68EM3
+!i10b 1
+Adataflow
+R5
+R6
+R7
+DEx4 work 11 addressunit 0 22 kJ3ML1g:h0<KaU<^IPRg<2
+32
+l36
+L15
+VH`oNE<iiH_AhYZ1H:^iHJ2
+R11
+R20
+R21
+R22
+R15
+R16
+!s100 e_CIkh`6^8gTLnefeb`>_2
+!i10b 1
+Ealu
+Z23 w1492695200
+R5
+R6
+R7
+R8
+Z24 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/ALU.vhd
+Z25 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/ALU.vhd
+l0
+L4
+V28@RV9QWL;MRbKhnNBIGh2
+R11
+32
+Z26 !s108 1499705039.073000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/ALU.vhd|
+Z28 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/ALU.vhd|
+R15
+R16
+!s100 Y7IB?2j73:FX@JPJG<T;N3
+!i10b 1
+Aaluarc
+R5
+R6
+R7
+DEx4 work 3 alu 0 22 28@RV9QWL;MRbKhnNBIGh2
+32
+l45
+L16
+VXf9_V<b?2ag^0S35Wg<D33
+R11
+R26
+R27
+R28
+R15
+R16
+!s100 3HzIM>HfdOK07z8zBTXM10
+!i10b 1
+Ecache
+Z29 w1499705044
+R5
+R6
+R7
+R8
+Z30 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cache.vhd
+Z31 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cache.vhd
+l0
+L4
+V3Uzm9J`52m_CZh0_98QaX2
+R11
+32
+Z32 !s108 1499705044.434000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cache.vhd|
+Z34 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cache.vhd|
+R15
+R16
+!s100 NmGF18C<_?hnEJE1Ai_oC0
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 5 cache 0 22 3Uzm9J`52m_CZh0_98QaX2
+32
+l63
+L13
+VLdd2ZWUd2^R]<cY[]_AMh1
+R11
+R32
+R33
+R34
+R15
+R16
+!s100 Ahba:Ph<?ZG3zY]1kPfV91
+!i10b 1
+Ecachecontroller
+Z35 w1499704832
+R5
+R6
+R7
+R8
+Z36 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachecontroller.vhd
+Z37 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachecontroller.vhd
+l0
+L4
+Vb3;glZ?[T8Q`QbT19Ek2k3
+R11
+32
+Z38 !s108 1499705045.840000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachecontroller.vhd|
+Z40 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachecontroller.vhd|
+R15
+R16
+!s100 ULg26;4C9_M]?^KVZmRBd1
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 15 cachecontroller 0 22 b3;glZ?[T8Q`QbT19Ek2k3
+32
+l16
+L12
+VAz1NHcbzICUkib8?NmB3^2
+R11
+R38
+R39
+R40
+R15
+R16
+!s100 eG`@FSPO0S_>Dm7;I]`Hi1
+!i10b 1
+Ecachemem
+Z41 w1499705045
+R5
+R6
+R7
+R8
+Z42 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachemem.vhd
+Z43 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachemem.vhd
+l0
+L4
+VDaAWMTm^JFZ;igl97kAWO1
+R11
+32
+Z44 !s108 1499705045.670000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachemem.vhd|
+Z46 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\cachemem.vhd|
+R15
+R16
+!s100 PhOc1mk=R4o;S;JkI8TRF2
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 8 cachemem 0 22 DaAWMTm^JFZ;igl97kAWO1
+32
+l57
+L15
+Vb1Q^[b7iCS:L7:EAJ`NEP3
+R11
+R44
+R45
+R46
+R15
+R16
+!s100 YjCA]Fo@;9Bhchjk=gXAj0
+!i10b 1
+Ecmp16
+Z47 w1490711116
+Z48 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z49 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R6
+R7
+R8
+Z50 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/comparetor.vhd
+Z51 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/comparetor.vhd
+l0
+L7
+VGzjO7Po1?PI3_<SPA=h_P3
+R11
+32
+Z52 !s108 1499705039.280000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/comparetor.vhd|
+Z54 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/comparetor.vhd|
+R15
+R16
+!s100 hYBj7QV9@Q4=Z^`6hfaM02
+!i10b 1
+Aa
+R48
+R49
+R6
+R7
+DEx4 work 5 cmp16 0 22 GzjO7Po1?PI3_<SPA=h_P3
+32
+l16
+L14
+VlP0TQFWae0OQn_nV?cI]20
+R11
+R52
+R53
+R54
+R15
+R16
+!s100 GD=CgkC^6dHIL1E697o5f0
+!i10b 1
+Econtroller
+Z55 w1492690229
+R5
+R6
+R7
+R8
+Z56 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/controller.vhd
+Z57 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/controller.vhd
+l0
+L4
+VM]Yk0P_k@ci26bMd1o@HK2
+R11
+32
+Z58 !s108 1499705041.350000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/controller.vhd|
+Z60 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/controller.vhd|
+R15
+R16
+!s100 >;>W7E[9<7Pm][S:RW1^k1
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 10 controller 0 22 M]Yk0P_k@ci26bMd1o@HK2
+32
+l73
+L19
+VUN=[DcVS25EIXiCL<8=Of1
+R11
+R58
+R59
+R60
+R15
+R16
+!s100 ?GKVV8Yhi5oGF9oA^:el=2
+!i10b 1
+Econv_test
+Z61 w1490685899
+R5
+R6
+R7
+R8
+Z62 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\vectointconvertor.vhd
+Z63 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\vectointconvertor.vhd
+l0
+L5
+VdZ6Ye^g:UzPz;1`n;Xbc40
+R11
+32
+Z64 !s108 1490685899.341000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\vectointconvertor.vhd|
+Z66 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\vectointconvertor.vhd|
+R15
+R16
+!s100 79^mc?Z:g=3BnKE=:U5[T3
+!i10b 1
+Abehavioral
+R5
+R6
+R7
+DEx4 work 9 conv_test 0 22 dZ6Ye^g:UzPz;1`n;Xbc40
+l12
+L10
+VgJfT?:F2W`JhUTPHE3GYC1
+R11
+32
+R64
+R65
+R66
+R15
+R16
+!s100 N<gTGQSWUKMdZ;R1LKWO_0
+!i10b 1
+Ecounter_mod
+Z67 w1492594092
+Z68 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+R49
+R48
+R6
+R7
+R8
+Z69 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\ripplecounter.vhd
+Z70 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\ripplecounter.vhd
+l0
+L6
+V3M^f8H_W<?oenOhVYKFA?3
+R11
+32
+Z71 !s108 1492594092.976000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\ripplecounter.vhd|
+Z73 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\ripplecounter.vhd|
+R15
+R16
+!s100 6OUZ_96]^`n>ol68NZ[oD0
+!i10b 1
+Abehavioral
+R68
+R49
+R48
+R6
+R7
+DEx4 work 11 counter_mod 0 22 3M^f8H_W<?oenOhVYKFA?3
+l14
+L13
+VTY5Ha_S973f2Tnz6BY[L70
+R11
+32
+R71
+R72
+R73
+R15
+R16
+!s100 a54j1=UhTFaHlc@[GD>_82
+!i10b 1
+Edataarry
+Z74 w1499705047
+R5
+R6
+R7
+R8
+Z75 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\datarray.vhd
+Z76 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\datarray.vhd
+l0
+L5
+VZHH_6]lUWM:ZI:z46MTH92
+R11
+32
+Z77 !s108 1499705047.276000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\datarray.vhd|
+Z79 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\datarray.vhd|
+R15
+R16
+!s100 FG]ef]8>P@BDC8Y_kHLVY1
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 8 dataarry 0 22 ZHH_6]lUWM:ZI:z46MTH92
+32
+l19
+L16
+VP[8lg@UJF@Q@1?6zd>k<M2
+R11
+R77
+R78
+R79
+R15
+R16
+!s100 a5YLzcL?D<hfV``N_6O3=3
+!i10b 1
+Edatapath
+Z80 w1492692703
+R5
+R6
+R7
+R8
+Z81 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/datapath.vhd
+Z82 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/datapath.vhd
+l0
+L4
+VU`LHlGdHG7@Ag[V`NaAbN0
+R11
+32
+Z83 !s108 1499705040.992000
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/datapath.vhd|
+Z85 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/datapath.vhd|
+R15
+R16
+!s100 PhdJCTiFigz>mLBaUVECc0
+!i10b 1
+Adatapatharc
+R5
+R6
+R7
+DEx4 work 8 datapath 0 22 U`LHlGdHG7@Ag[V`NaAbN0
+32
+l111
+L25
+VV:_6i7G;_FjkACEaD6KbF0
+R11
+R83
+R84
+R85
+R15
+R16
+!s100 jD>LZk6YARhA7H<]S<;on1
+!i10b 1
+Artl
+R48
+R49
+R6
+R7
+DEx4 work 8 datapath 0 22 YXn3b<OiGUh>b0<?NB=571
+l98
+L16
+VIg=m`c8<Jm]QlGE03`EBV2
+R11
+32
+R15
+R16
+FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\hahemi.vhd
+w1492070487
+8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\hahemi.vhd
+!s108 1492070487.410000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\hahemi.vhd|
+!s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\hahemi.vhd|
+!s100 i]VNHb_MdBL7ceJk_zl:f3
+!i10b 1
+Efulladdr
+Z86 w1490684630
+R6
+R7
+R8
+Z87 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/fulladder.vhd
+Z88 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/fulladder.vhd
+l0
+L5
+V<0bJh@[OYWA32@;X]lhz<2
+R11
+32
+Z89 !s108 1499705038.477000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/fulladder.vhd|
+Z91 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/fulladder.vhd|
+R15
+R16
+!s100 5abLPA<ASONdLabj2noD40
+!i10b 1
+Aarch_fulladdr
+R6
+R7
+DEx4 work 8 fulladdr 0 22 <0bJh@[OYWA32@;X]lhz<2
+32
+l14
+L12
+VAZih24BOZH`S_J1KJm;PM3
+R11
+R89
+R90
+R91
+R15
+R16
+!s100 X`S=WPN;^DN3d?8AWW7bo0
+!i10b 1
+Eir
+Z92 w1492258894
+R5
+R6
+R7
+R8
+Z93 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/IR.vhd
+Z94 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/IR.vhd
+l0
+L4
+VDbO9k7azM_1^fnmed4Lbm0
+R11
+32
+Z95 !s108 1499705038.868000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/IR.vhd|
+Z97 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/IR.vhd|
+R15
+R16
+!s100 BO]o_HEQG3W6K<RilK_=M0
+!i10b 1
+Air_arc
+R5
+R6
+R7
+DEx4 work 2 ir 0 22 DbO9k7azM_1^fnmed4Lbm0
+32
+l14
+L13
+V[dRiiUz?Q84l1_C_Bb;cF1
+R11
+R95
+R96
+R97
+R15
+R16
+!s100 FOCLOiIO`d]:J649E3i<;1
+!i10b 1
+Emain_t
+Z98 w1492167219
+R6
+R7
+R8
+Z99 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/test.vhd
+Z100 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/test.vhd
+l0
+L5
+VSILgl:4PEh[hVW^2FlX2S3
+R11
+32
+Z101 !s108 1497313672.342000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/test.vhd|
+Z103 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/test.vhd|
+R15
+R16
+!s100 ^JKzOE4Gai9LMEB1FRjNB2
+!i10b 1
+Artl
+R6
+R7
+DEx4 work 6 main_t 0 22 SILgl:4PEh[hVW^2FlX2S3
+l24
+L9
+VG2C430EA`YfR9ZlXm7OU12
+R11
+32
+R101
+R102
+R103
+R15
+R16
+!s100 `EKXXBgP`e9BhA]QJN6;?3
+!i10b 1
+Ememory
+Z104 w1492682647
+R5
+R6
+R7
+R8
+Z105 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memory.vhd
+Z106 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memory.vhd
+l0
+L11
+VD;]B_GLg9`MOH5Mj?3=0R3
+R11
+32
+Z107 !s108 1499705279.931000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memory.vhd|
+Z109 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memory.vhd|
+R15
+R16
+!s100 aBE;6SD?Mm0_Qh[`4;EMU2
+!i10b 1
+Abehavioral
+R5
+R6
+R7
+DEx4 work 6 memory 0 22 D;]B_GLg9`MOH5Mj?3=0R3
+l25
+L23
+V70_V`3Gd=;;z0^18=kL2]1
+R11
+32
+R107
+R108
+R109
+R15
+R16
+!s100 GiH841SmC9IDIn^?^zPAm3
+!i10b 1
+Ememorycache
+Z110 w1499705278
+R5
+R6
+R7
+R8
+Z111 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memorycache.vhd
+Z112 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memorycache.vhd
+l0
+L11
+V=Z7diT4B[eF1gWohFO:K_1
+R11
+32
+Z113 !s108 1499705290.320000
+Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memorycache.vhd|
+Z115 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\memorycache.vhd|
+R15
+R16
+!s100 Pg27`dC;_zhbPEzheWX372
+!i10b 1
+Abehavioral
+R5
+R6
+R7
+DEx4 work 11 memorycache 0 22 =Z7diT4B[eF1gWohFO:K_1
+32
+l26
+L24
+VI_JL>e`5mQg1TMR];BBj[0
+R11
+R113
+R114
+R115
+R15
+R16
+!s100 L^YRUC1SHQPlnJn06CXcm0
+!i10b 1
+Emisshitlogic
+Z116 w1499662401
+R5
+R6
+R7
+R8
+Z117 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/hit miss logic.vhd
+Z118 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/hit miss logic.vhd
+l0
+L6
+VfTCWJA@DS]H52_VVA=Rc83
+R11
+32
+Z119 !s108 1499705047.443000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/hit miss logic.vhd|
+Z121 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/hit miss logic.vhd|
+R15
+R16
+!s100 ?1@<F:kgJ?1XdhbDkR8e32
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 12 misshitlogic 0 22 fTCWJA@DS]H52_VVA=Rc83
+32
+l18
+L17
+VC]SEb621bE7fLG:a;MQN>0
+R11
+R119
+R120
+R121
+R15
+R16
+!s100 zTbDYa3DPNOjN]SO[ljQ^2
+!i10b 1
+Emru_array
+Z122 w1499705048
+R5
+R6
+R7
+R8
+Z123 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mru.vhd
+Z124 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mru.vhd
+l0
+L5
+VmIn6IV=T5Gd`NQ7hnkHRZ2
+R11
+32
+Z125 !s108 1499705048.435000
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mru.vhd|
+Z127 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mru.vhd|
+R15
+R16
+!s100 Y]NahGm297;OW@0HzK0R62
+!i10b 1
+Abehavorial
+R5
+R6
+R7
+DEx4 work 9 mru_array 0 22 mIn6IV=T5Gd`NQ7hnkHRZ2
+32
+l20
+L16
+VzBWz]TKZGI_GOEG96[Zdj2
+R11
+R125
+R126
+R127
+R15
+R16
+!s100 kPKXZSNMmIDZih[>EbZTV3
+!i10b 1
+Emul
+Z128 w1491992456
+R5
+R6
+R7
+R8
+8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/mul.vhd
+FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/mul.vhd
+l0
+L4
+V9VUf8XjT]?cE<bkSeaShG2
+R11
+32
+R15
+R16
+!s100 =O]@DeUKbD;e0;JS08M_>1
+!i10b 1
+!s108 1492053808.630000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/mul.vhd|
+!s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/mul.vhd|
+Aarc
+R5
+R6
+R7
+DEx4 work 3 mul 0 22 9VUf8XjT]?cE<bkSeaShG2
+l15
+L11
+VN;ObmLiAEjWgNcIeWVok@2
+R11
+32
+R15
+R16
+FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mul.vhd
+8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mul.vhd
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mul.vhd|
+!s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mul.vhd|
+!s108 1491992074.346000
+!s100 `U2bMnL35Z4R90o^nG=9d3
+!i10b 1
+Emux
+Z129 w1499705049
+R5
+R6
+R7
+R8
+Z130 8C:\Users\asus\Documents\4th term\architecht\project\muxcache.vhd
+Z131 FC:\Users\asus\Documents\4th term\architecht\project\muxcache.vhd
+l0
+L5
+VOmLm@[6k<ehQJ][Q`KD_I0
+R11
+32
+Z132 !s108 1499705049.379000
+Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\project\muxcache.vhd|
+Z134 !s107 C:\Users\asus\Documents\4th term\architecht\project\muxcache.vhd|
+R15
+R16
+!s100 FW[`A61F32F8oA9k0oSoi3
+!i10b 1
+Abehavioral
+R5
+R6
+R7
+DEx4 work 3 mux 0 22 OmLm@[6k<ehQJ][Q`KD_I0
+32
+l15
+L14
+VNgVI?=F`m3i@<P5:fBDS_3
+R11
+R132
+R133
+R134
+R15
+R16
+!s100 HD@N84^I63TS4PGf_Ea=c1
+!i10b 1
+Emux16
+Z135 w1490722583
+R6
+R7
+R8
+Z136 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux16.vhd
+Z137 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux16.vhd
+l0
+L4
+VhJD8o9959>>DVna99EEAa0
+R11
+32
+Z138 !s108 1499705039.614000
+Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux16.vhd|
+Z140 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux16.vhd|
+R15
+R16
+!s100 X_IXP[8m;fnMRiYYXgS]I1
+!i10b 1
+Abehavioral
+R6
+R7
+DEx4 work 5 mux16 0 22 hJD8o9959>>DVna99EEAa0
+l12
+L10
+VcOA;6@3LNok_A[zFFTHH@2
+R11
+32
+R138
+R139
+R140
+R15
+R16
+!s100 OkgTX5jbYzo_Q52EZb]A82
+!i10b 1
+Emux2to1
+Z141 w1490785890
+R5
+R6
+R7
+R8
+Z142 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux2.vhd
+Z143 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux2.vhd
+l0
+L5
+VLkJ8E]H5OVX3113^YkGFH2
+R11
+32
+Z144 !s108 1499705040.319000
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux2.vhd|
+Z146 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\mux2.vhd|
+R15
+R16
+!s100 ^Ta0b>fRVMgH9;g;k8lhL1
+!i10b 1
+Abehavioral
+R5
+R6
+R7
+DEx4 work 7 mux2to1 0 22 LkJ8E]H5OVX3113^YkGFH2
+32
+l13
+L12
+Vgl=63@3kXM<DF0WHI5iYl1
+R11
+R144
+R145
+R146
+R15
+R16
+!s100 ?JXZ><3U6eZQ3TSOc6No30
+!i10b 1
+Eprogramcounter
+Z147 w1492288212
+R5
+R6
+R7
+R8
+Z148 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/pc.vhd
+Z149 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/pc.vhd
+l0
+L4
+V0nim4RY]W8DhOVRj^=T7?2
+R11
+32
+Z150 !s108 1499705039.780000
+Z151 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/pc.vhd|
+Z152 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/pc.vhd|
+R15
+R16
+!s100 A@hR;YFDG:3DAomVdP96_3
+!i10b 1
+Adataflow
+R5
+R6
+R7
+DEx4 work 14 programcounter 0 22 0nim4RY]W8DhOVRj^=T7?2
+32
+l13
+L13
+Vf]UYK8]i7f=ORCHOT8hVj1
+R11
+R150
+R151
+R152
+R15
+R16
+!s100 3Sn<;J9YU5DNdm6gA5GCT2
+!i10b 1
+Eregister16
+Z153 w1490680249
+R5
+R6
+R7
+R8
+Z154 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\register16.vhd
+Z155 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\register16.vhd
+l0
+L5
+V10CiZi[J]O?Tb]`EIL>[=0
+R11
+32
+Z156 !s108 1490685969.530000
+Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\register16.vhd|
+Z158 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\register16.vhd|
+R15
+R16
+!s100 dnIjM4Cg3AOPm^ahGLF0;0
+!i10b 1
+Artl
+R5
+R6
+R7
+DEx4 work 10 register16 0 22 10CiZi[J]O?Tb]`EIL>[=0
+l16
+L15
+Vgo2lQjDYN4dCTK3Y>Y0Tc2
+R11
+32
+R156
+R157
+R158
+R15
+R16
+!s100 XDC:o>lN3GlzB]WJaOCQS2
+!i10b 1
+Eregisterfile
+Z159 w1492669087
+R5
+R6
+R7
+R8
+Z160 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/registerfile.vhd
+Z161 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/registerfile.vhd
+l0
+L4
+VACM1Dkjk?MM?N?3:C;QVC1
+R11
+32
+Z162 !s108 1499705038.232000
+Z163 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/registerfile.vhd|
+Z164 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/registerfile.vhd|
+R15
+R16
+!s100 In;Ko`fVl2HG?Bkbzd4U[1
+!i10b 1
+Artl
+R5
+R6
+R7
+DEx4 work 12 registerfile 0 22 ACM1Dkjk?MM?N?3:C;QVC1
+32
+l32
+L19
+VVHLK:NmC?V_Ad>G><gRoD3
+R11
+R162
+R163
+R164
+R15
+R16
+!s100 O]S4Wff1=XZi@MBY0i_M:1
+!i10b 1
+Esayeh
+Z165 w1499705139
+R5
+R6
+R7
+R8
+Z166 8C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\sayeh.vhd
+Z167 FC:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\sayeh.vhd
+l0
+L4
+Vf1U:1=dof@Gk232HjgO>[3
+R11
+32
+Z168 !s108 1499705144.037000
+Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\sayeh.vhd|
+Z170 !s107 C:\Users\asus\Documents\4th term\architecht\norooz project\sayeh\sayeh.vhd|
+R15
+R16
+!s100 NgPZFlR7ZhTDcBmX3ZJoH1
+!i10b 1
+Artl
+R5
+R6
+R7
+DEx4 work 5 sayeh 0 22 f1U:1=dof@Gk232HjgO>[3
+32
+l85
+L11
+V799m7aRUNkYg0]c9=?Sil2
+R11
+R168
+R169
+R170
+R15
+R16
+!s100 TU7I6^S[Oi<VV0DkN1d>51
+!i10b 1
+Esix_bit_adder
+Z171 w1490685258
+R6
+R7
+R8
+Z172 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder-6bit.vhd
+Z173 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder-6bit.vhd
+l0
+L5
+VVnZjA4:OXmZoFVbRd=WaZ3
+R11
+32
+Z174 !s108 1499705038.656000
+Z175 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder-6bit.vhd|
+Z176 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder-6bit.vhd|
+R15
+R16
+!s100 IO;RIbC=S5QR?3]4[Z?>W3
+!i10b 1
+Aarch_six_bit_adder
+R6
+R7
+DEx4 work 13 six_bit_adder 0 22 VnZjA4:OXmZoFVbRd=WaZ3
+32
+l21
+L13
+VmdgS:6e<5f[M9jX0elA@J2
+R11
+R174
+R175
+R176
+R15
+R16
+!s100 YM?z51M0:4IGRLoCggakY3
+!i10b 1
+Esixteen_bit_adder
+Z177 w1490711623
+R6
+R7
+R8
+Z178 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder16bit.vhd
+Z179 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder16bit.vhd
+l0
+L5
+V^><]Fg[[edU_?VKHDDQ>K1
+R11
+32
+Z180 !s108 1499705039.452000
+Z181 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder16bit.vhd|
+Z182 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/adder16bit.vhd|
+R15
+R16
+!s100 @Dkg[g^n??F>^]?LVMjZS3
+!i10b 1
+Aarch_sixteen_bit_adder
+R6
+R7
+DEx4 work 17 sixteen_bit_adder 0 22 ^><]Fg[[edU_?VKHDDQ>K1
+32
+l22
+L14
+VfE1hlSZYDBj8^6BBWZU>V1
+R11
+R180
+R181
+R182
+R15
+R16
+!s100 0i`Ui2]a205o^8Ji9VTQJ0
+!i10b 1
+Estatusreg
+Z183 w1492452085
+R5
+R6
+R7
+R8
+Z184 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/statusreg.vhd
+Z185 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/statusreg.vhd
+l0
+L4
+V^R0?Qi_S26a_]ln8Ya88d1
+R11
+32
+Z186 !s108 1499705039.944000
+Z187 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/statusreg.vhd|
+Z188 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/statusreg.vhd|
+R15
+R16
+!s100 ;AUJkDAaKWTJf0^6>HUi<3
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 9 statusreg 0 22 ^R0?Qi_S26a_]ln8Ya88d1
+32
+l10
+L9
+V_?a`_e0AZMgH?Tc<NZD:W0
+R11
+R186
+R187
+R188
+R15
+R16
+!s100 S:Z8j`C3f5BSj<dniFPWU1
+!i10b 1
+Etag_valid_array
+Z189 w1499705051
+R5
+R6
+R7
+R8
+Z190 8C:\Users\asus\Documents\4th term\architecht\project\tag valid array.vhd
+Z191 FC:\Users\asus\Documents\4th term\architecht\project\tag valid array.vhd
+l0
+L4
+V]21@[?A^ZD<=`OglA?:`l3
+R11
+32
+Z192 !s108 1499705051.675000
+Z193 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:\Users\asus\Documents\4th term\architecht\project\tag valid array.vhd|
+Z194 !s107 C:\Users\asus\Documents\4th term\architecht\project\tag valid array.vhd|
+R15
+R16
+!s100 ;7P]BAQYE1@_DN]0PC>:j3
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 15 tag_valid_array 0 22 ]21@[?A^ZD<=`OglA?:`l3
+32
+l15
+L11
+VbVcc]P3WT;V60^^`nLhA80
+R11
+R192
+R193
+R194
+R15
+R16
+!s100 QU`[VLbFFB^?Bk>C9QAnE0
+!i10b 1
+Etest
+Z195 w1492275675
+R5
+R6
+R7
+R8
+Z196 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/testbench.vhd
+Z197 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/testbench.vhd
+l0
+L4
+VObWk63K7GWM1KWNm]IbZZ3
+R11
+32
+Z198 !s108 1499705041.870000
+Z199 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/testbench.vhd|
+Z200 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/testbench.vhd|
+R15
+R16
+!s100 kn9_@ES^?OOa^[mWD[T_?3
+!i10b 1
+Artl
+R5
+R6
+R7
+DEx4 work 4 test 0 22 ObWk63K7GWM1KWNm]IbZZ3
+l16
+L7
+V`@mFH8?@K3mFR<^1_=Xkz2
+R11
+32
+R198
+R199
+R200
+R15
+R16
+!s100 k>RN_@c]>N@_4bId4DJ7R0
+!i10b 1
+Etri_state
+Z201 w1492193819
+R6
+R7
+R8
+Z202 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tristatebuffer.vhd
+Z203 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tristatebuffer.vhd
+l0
+L4
+Vl9Z;gfIXM[TPz<biSF2LO3
+R11
+32
+Z204 !s108 1499705040.831000
+Z205 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tristatebuffer.vhd|
+Z206 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tristatebuffer.vhd|
+R15
+R16
+!s100 R]oi7LkIB4?kZD9M]XKjQ2
+!i10b 1
+Abehavioral
+R6
+R7
+DEx4 work 9 tri_state 0 22 l9Z;gfIXM[TPz<biSF2LO3
+32
+l12
+L10
+VnF9lPbN<;Q=i5n91W_Ebi0
+R11
+R204
+R205
+R206
+R15
+R16
+!s100 V0:`dRVNN@aC1Zg<9g^j>3
+!i10b 1
+Etri_state8
+Z207 w1492193789
+R6
+R7
+R8
+Z208 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tri8.vhd
+Z209 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tri8.vhd
+l0
+L5
+VF5?M@P9bcW6nd@_AV8nNX2
+R11
+32
+Z210 !s108 1499705041.176000
+Z211 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tri8.vhd|
+Z212 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/tri8.vhd|
+R15
+R16
+!s100 UQ8i^>lB`dTVm:SWLmgmR3
+!i10b 1
+Abehavioral
+R6
+R7
+DEx4 work 10 tri_state8 0 22 F5?M@P9bcW6nd@_AV8nNX2
+32
+l13
+L11
+Vf>RHI<<WOW0Ske`2?gQ;81
+R11
+R210
+R211
+R212
+R15
+R16
+!s100 =JDAOMhUz8T0<Hb1M<AF01
+!i10b 1
+Ewp
+Z213 w1492690219
+R5
+R6
+R7
+R8
+Z214 8C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/WP.vhd
+Z215 FC:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/WP.vhd
+l0
+L4
+V>@i5jNI@=Ai[5mIMH1m_43
+R11
+32
+Z216 !s108 1499705040.127000
+Z217 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/WP.vhd|
+Z218 !s107 C:/Users/asus/Documents/4th term/architecht/norooz project/sayeh/WP.vhd|
+R15
+R16
+!s100 fbnZ2;NDWF5<>K_=X3oa:3
+!i10b 1
+Aarc
+R5
+R6
+R7
+DEx4 work 2 wp 0 22 >@i5jNI@=Ai[5mIMH1m_43
+32
+l13
+L11
+V`NNaZJRLc3iRcJMHC]i9H3
+R11
+R216
+R217
+R218
+R15
+R16
+!s100 KiS3=RDYe9g`h_bBWW[Df3
+!i10b 1
